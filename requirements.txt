@@ -1,0 +1,7 @@
+Please download the given libraries before running the python file.
+
+1. Pandas
+2. Beautiful Soup
+3. Requests
+4. Textblob
+5. NLTK

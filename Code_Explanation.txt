@@ -1,0 +1,19 @@
+Step 1: 
+	Import the required libraries for text extraction and alaysis part. If the required imports are not installed then please install them.
+
+Step 2: 
+	Read the Input.csv file using pandas library.
+
+Step 3:
+	To extract article's text and title from the given url in Input.csv, I used "beautiful soup" library of python which help in extracting text from url effortlessly.
+
+Step 4:
+	To analyze the text extracted from the url, I made a function "analyze_text". This function will do the analysis part and give positive score, negative score, polarity, subjectivity, average sentence length, complex word percent, fog index, average number of words per sentence, complex word count, word count, syllable per word, personal pronouns, average word length. 
+	For the analysis part, I used "NLTK" library which used in NLP.
+
+Step 5: 
+	The  main function runs the main for loop for extraction and analysis which then writes the results obtained from analysis to the "Output.csv" file.
+
+
+How to run the file?
+	To run the file, simply just click on the run button in your IDLE.
